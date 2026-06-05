@@ -6,8 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-0D47A1?style=for-the-badge)](https://v0-meetkumar-portfolio-deploy-personal-website-ten.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meetkumar-patel-061a1824b)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/001MEET)
-
+ 
 
 
 
