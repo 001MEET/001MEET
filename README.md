@@ -4,7 +4,7 @@
 
 ### Data Engineer & Analyst | Turning Raw Data into Real Insights
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-0D47A1?style=for-the-badge)](https://v0-meetkumar-portfolio-deploy-personal-website.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-0D47A1?style=for-the-badge)](https://v0-meetkumar-portfolio-deploy-personal-website-ten.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meetkumar-patel-061a1824b)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/001MEET)
 
@@ -27,7 +27,7 @@ building end-to-end data solutions — from ingestion and transformation to repo
 - 💡 Interested in **ETL pipelines**, **Data Modeling**, and **BI Dashboards**
 - 🤝 Open to **collaborations** on data engineering & analytics projects
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/meetkumar-patel-061a1824b)
-- 🌐 Portfolio: [meetkumar-portfolio.vercel.app](https://v0-meetkumar-portfolio-deploy-personal-website.vercel.app)
+- 🌐 Portfolio: [meetkumar-portfolio.vercel.app](https://v0-meetkumar-portfolio-deploy-personal-website-ten.vercel.app/)
 
 ---
 
@@ -149,7 +149,7 @@ building end-to-end data solutions — from ingestion and transformation to repo
 
 
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-0D47A1?style=for-the-badge)](https://v0-meetkumar-portfolio-deploy-personal-website.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-0D47A1?style=for-the-badge)](https://v0-meetkumar-portfolio-deploy-personal-website-ten.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meetkumar-patel-061a1824b)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/001MEET)
 
